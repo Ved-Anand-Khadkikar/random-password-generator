@@ -5,4 +5,5 @@ A tiny CLI tool to generate random passwords.
 Usage:
 
 ## Features
-- Feature: password generation implemented
+- Feature: simple password generation implemented
+
